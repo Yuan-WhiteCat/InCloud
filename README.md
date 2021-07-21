@@ -1,4 +1,4 @@
-# InCloud GitHub云上扫描器1
+# InCloud GitHub云上扫描器
 ![-w784](yun.png)
 ## 简介
 本工具只可用于安全测试，勿用于非法用途！
